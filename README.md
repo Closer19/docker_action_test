@@ -1,1 +1,0 @@
-backend와 frontend분리
